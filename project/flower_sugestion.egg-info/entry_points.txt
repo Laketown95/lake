@@ -1,0 +1,2 @@
+[console_scripts]
+flower_sugesstions = project:main
